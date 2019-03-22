@@ -1,0 +1,1 @@
+ cp -R keystores/. ./android/keystores/

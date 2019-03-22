@@ -1,22 +1,29 @@
 {
   "expo": {
-    "name": "Playlist",
-    "description": "A playlist of some songs that Greg likes to demo the Expo AV API.",
-    "slug": "playlist",
+    "name": "Playlist-Expo-32",
+    "description": "A playlist of some songs that Greg likes to demo the Expo AV API 32.",
+    "slug": "playlist-expo-32",
     "privacy": "public",
-    "sdkVersion": "29.0.0",
-    "version": "3.0.0",
+    "sdkVersion": "32.0.0",
+    "version": "0.1.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
     "icon": "./assets/images/icon.png",
     "splash": {
-      "image": "./assets/images/icon.png",
+      "image": "./assets/images/icon.png"
     },
     "packagerOpts": {
-      "assetExts": ["ttf", "png"]
+      "assetExts": [
+        "ttf",
+        "png"
+      ]
     },
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ]
   }
 }
